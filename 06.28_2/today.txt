@@ -1,0 +1,2 @@
+https://www.acmicpc.net/problem/4948
+문제이름 : 베르트랑 공준
