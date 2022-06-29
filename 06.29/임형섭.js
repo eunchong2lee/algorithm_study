@@ -1,11 +1,6 @@
 // 내가 푼 풀이
-// 1번문제 푸느라 못풀었음..
-
-
-
-
-
-
+// 백준에서 input을 어떻게 해야하는지 부터 찾다가 시간날림
+// break가 뭐지? 하고 구글에서 뒤적뒤적거림
 
 // 정답 풀이
 const input = require('fs').readFileSync('dev/stdin').toString().split("\n").map((num) => parseInt(num));
