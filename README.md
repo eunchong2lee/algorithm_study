@@ -1,7 +1,9 @@
 # algorithm_study
 
-## 알고리즘 스터디 문제 링크 
+## 알고리즘 스터디 백준 문제 링크 
 https://docs.google.com/spreadsheets/d/19VKqOSIkbYcY5hXjQi3ZGxQEaIUbJbHhm6aeHTTGwPs/edit#gid=1922060830
+
+
 
 ## 알고리즘 스터디 멤버
 
