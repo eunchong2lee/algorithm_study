@@ -1,14 +1,24 @@
 // 내가 푼 풀이
 function solution(number, k) {
+  const stack = [];
   var answer = '';
-  return answer;
+  
+  for (let i =0; i <number.length; i++) {
+    const el = number[i];
+
+    while(k > 0 && stack[stack.length-1] < el){
+      stack.pop();
+      k--;
+    }
+    stack.push(el);
+  }
+  stack.splice(stack.length-k, k);
+  answer = stack.join('');
+  return answer
+  
 }
 
 
+// 설명
 
-
-
-
-
-
-// 정답 풀이
+// 나도 몰라
