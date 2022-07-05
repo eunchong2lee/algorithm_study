@@ -1,5 +1,5 @@
 // 내가 푼 풀이
-function solution(numbers) {
+function solution(numbers, target) {
   var answer = 0;
   return answer;
 }
