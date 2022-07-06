@@ -1,14 +1,8 @@
 // 내가 푼 풀이
-function solution(n) {
-  var answer = 0;
+function solution(s) {
+  var answer = '';
   return answer;
 }
-
-
-
-
-
-
 
 
 
